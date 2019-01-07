@@ -1,0 +1,39 @@
+<pre><b style='color:red;text-transform: uppercase;'>prince : </b> Cleared Chat <b style="color:green;"> ( 08-01-2019 02:52 AM )</b></pre><br><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:53 AM )</b> <button onclick="copyToClipboard('#p60055')">COPY :)</button><br><span id="p60055">
+&#x3C;script&#x3E;
+function copyToClipboard(element) {
+&#x9;$( &#x22;.textBox&#x22; ).show();
+  var $temp = $(&#x22;.textBox&#x22;);
+  $(&#x22;body&#x22;).append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand(&#x22;copy&#x22;);
+   $( &#x22;.textBox&#x22; ).hide();
+}
+
+&#x3C;/script&#x3E;</span></pre><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:53 AM )</b> <button onclick="copyToClipboard('#p216983')">COPY :)</button><br><span id="p216983">
+&#x3C;script&#x3E;
+function copyToClipboard(element) {
+&#x9;$( &#x22;.textBox&#x22; ).show();
+  var $temp = $(&#x22;.textBox&#x22;);
+  $(&#x22;body&#x22;).append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand(&#x22;copy&#x22;);
+   $( &#x22;.textBox&#x22; </span></pre><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:53 AM )</b> <button onclick="copyToClipboard('#p161140')">COPY :)</button><br><span id="p161140">
+&#x3C;script&#x3E;
+function copyToClipboard(element) {
+&#x9;$( &#x22;.textBox&#x22; ).show();
+  var $temp = $(&#x22;.textBox&#x22;);
+  $(&#x22;body&#x22;).append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand(&#x22;copy&#x22;);
+   $( &#x22;.textBox&#x22; ).hide();
+}
+
+&#x3C;/script&#x3E;</span></pre><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:53 AM )</b> <button onclick="copyToClipboard('#p272870')">COPY :)</button><br><span id="p272870">
+&#x3C;script&#x3E;
+function copyToClipboard(element) {
+&#x9;$( &#x22;.textBox&#x22; ).show();
+  var $temp = $(&#x22;.textBox&#x22;);
+  $(&#x22;body&#x22;).append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand(&#x22;copy&#x22;);
+   $( &#x22;.textBox&#x22; </span></pre><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:55 AM )</b> <button style='background-color:blue; font-weight:300; font-size:;' onclick="copyToClipboard('#p379880')">COPY :)</button><br><span id="p379880">p</span></pre><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:57 AM )</b> <button style='background-color:green; border:1px solid green; font-weight:300; font-size:;' onclick="copyToClipboard('#p194597')">COPY :)</button><br><span id="p194597">h</span></pre><pre><b style='color:red;  text-transform: uppercase;'>prince</b><b style="color:green;">  ( 08-01-2019 02:57 AM )</b> <button style='background-color:yellow; border:1px solid yellow; font-weight:300; font-size:;' onclick="copyToClipboard('#p467625')">COPY :)</button><br><span id="p467625">j</span></pre>
